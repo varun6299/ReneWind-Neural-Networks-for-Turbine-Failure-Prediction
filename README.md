@@ -10,13 +10,13 @@
 
 
 <p align="center">
-  <img src="images/readme main picture.png" alt="Education vs Acceptance" width="600"/>
+  <img src="images/rRenewind_turbines.png" width="600"/>
 </p>
 
 *A neural network–based predictive maintenance solution to identify turbine failures before they happen.*
 
 <p align="center">
-  <img src="images/readme main picture.png" alt="Education vs Acceptance" width="600"/>
+  <img src="images/Renewind_logo.png" width="600"/>
 </p>
 
 ---
@@ -77,13 +77,13 @@ Because features were anonymized, their physical meaning is unknown, but they re
 - **Distribution:** Most predictor variables followed a roughly normal distribution.
 
 <p align="center">
-  <img src="images/readme main picture.png" alt="Education vs Acceptance" width="600"/>
+  <img src="images/Renewind_Sensors_data_distribution.png" alt="Distribution of Sensors Data" width="600"/>
 </p>
 
 - **Imbalance:** Failures represented only a small percentage of the dataset, making imbalance handling critical.
 
 <p align="center">
-  <img src="images/readme main picture.png" alt="Education vs Acceptance" width="600"/>
+  <img src="images/Renewind_failure_split.png" alt="Failure (1) vs Non-Failure (0) instances" width="600"/>
 </p>
 
 - **Failure vs Non-failure patterns:** Certain predictors showed separation between failing and non-failing turbines in boxplots and histograms, suggesting useful signal.  
@@ -168,7 +168,7 @@ The final model chosen was **NN_Adam_4Hidden_Drop30_Weighted**, which achieved:
 - **Validation F1 Score:** 0.891 (~89%)
 
 <p align="center">
-  <img src="images/readme main picture.png" alt="Education vs Acceptance" width="600"/>
+  <img src="images/Renewind_NN_FinalModel_ConfusionMatrix_Results.png" alt="NN Adam Optimiser 4 Hidden Layer Drop30 Weighted - Performance on Test Data" width="600"/>
 </p>
 
 From a cost perspective, this model delivers the **lowest projected maintenance cost**:  
