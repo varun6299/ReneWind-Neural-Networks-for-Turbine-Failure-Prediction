@@ -8,15 +8,14 @@
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-yellow.svg)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-StatsViz-lightblue.svg)](https://seaborn.pydata.org/)
 
-
 <p align="center">
-  <img src="images/rRenewind_turbines.png" width="600"/>
+  <img src="images/Renewind_logo.png" width="600"/>
 </p>
 
 *A neural network–based predictive maintenance solution to identify turbine failures before they happen.*
 
 <p align="center">
-  <img src="images/Renewind_logo.png" width="600"/>
+  <img src="images/Renewind_turbines.png" width="600"/>
 </p>
 
 ---
